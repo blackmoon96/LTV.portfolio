@@ -3,7 +3,7 @@
 
 
 
- Youtube [Hades.하데스](https://www.youtube.com/channel/UCBrTGEc73V9rDhlS8acUQzg) 
+ **Bold** Youtube [Hades.하데스](https://www.youtube.com/channel/UCBrTGEc73V9rDhlS8acUQzg) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
