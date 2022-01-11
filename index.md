@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Hades Pages
+## 안녕하세요 ? 하데스에 오신 것을 환영합니다.
 
-You can use the [editor on GitHub](https://github.com/blackmoon96/hades.darkacademia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+
+ Youtube [Hades.하데스](https://www.youtube.com/channel/UCBrTGEc73V9rDhlS8acUQzg) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
