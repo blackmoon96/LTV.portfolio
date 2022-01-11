@@ -3,9 +3,11 @@
 
 
 
- **Bold** Youtube [Hades.하데스](https://www.youtube.com/channel/UCBrTGEc73V9rDhlS8acUQzg) 
+ **Youtube [Hades.하데스](https://www.youtube.com/channel/UCBrTGEc73V9rDhlS8acUQzg)** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_하데스(그리스어: ᾍδης, 영어: Hades)는 그리스 신화에 나오는 죽음과 지하세계를 관장하는 신이다. 로마 신화의 플루톤 (영어로는 플루토), 디스 파테르, 오르쿠스 등에 해당한다. 크로노스와 레아 사이에 태어났으며, 신들의 왕 제우스, 해왕 포세이돈 등과는 형제지간이다. 올림포스의 12신의 첫 번째 세대에 속한다._
+
+_클래식 음악 원,수금 메주  07:00 pm_
 
 ### Markdown
 
