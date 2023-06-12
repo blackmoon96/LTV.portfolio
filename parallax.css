@@ -1,0 +1,92 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.parallax {
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+#home {
+	background-image: url('home.jpg');
+}
+
+#about {
+	background-color: #f2f2f2;
+	padding: 50px;
+}
+
+#portfolio {
+	background-color: #fff;
+	padding: 50px;
+}
+
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.gallery a {
+	flex-basis: calc(33.33% - 10px);
+	margin-bottom: 20px;
+}
+
+.gallery img {
+	width: 100%;
+	height: auto;
+}
+
+.gallery video {
+	width: 100%;
+	height: auto;
+}
+
+#contact {
+	background-color: #f2f2f2;
+	padding: 50px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+	padding: 10px;
+	margin-bottom: 20px;
+	border: none;
+	border-radius: 5px;
