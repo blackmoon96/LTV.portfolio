@@ -927,3 +927,6 @@
   height: 100%;
   color: rgb(65, 118, 250) !important;
 }
+body {
+  opacity: 0.5;
+}
