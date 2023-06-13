@@ -64,7 +64,7 @@
     .fr-view table.fr-dashed-borders td, .fr-view table.fr-dashed-borders th {
       border-style: dashed; }
     .fr-view table.fr-alternate-rows tbody tr:nth-child(2n) {
-      background: whitesmoke; }
+      background: none; }
     .fr-view table td, .fr-view table th {
       border: 1px solid #DDD; }
       .fr-view table td:empty, .fr-view table th:empty {
@@ -74,7 +74,7 @@
       .fr-view table td.fr-thick, .fr-view table th.fr-thick {
         border-width: 2px; }
     .fr-view table th {
-      background: #ececec; }
+      background: none; }
   .fr-view hr {
     clear: both;
     user-select: none;
