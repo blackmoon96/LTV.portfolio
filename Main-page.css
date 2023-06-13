@@ -929,11 +929,4 @@
 }
 
 
-body {
-  background-image: url("https://s12.gifyu.com/images/Sud5l.gif");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
-  width: 100vw;
-  background-color: rgba(204, 204, 204, 0.5);
-}
+body { background-image: url("https://s12.gifyu.com/images/Sud5l.gif"); background-size: cover; background-repeat: no-repeat; height: 100vh; width: 100vw; background-color: rgba(204, 204, 204, 0.5); position: relative; z-index: -1; }
